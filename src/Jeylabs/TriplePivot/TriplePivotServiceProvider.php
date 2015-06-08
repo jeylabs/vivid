@@ -22,7 +22,6 @@ class TriplePivotServiceProvider extends ServiceProvider {
 	 * Bootstrap the application events.
 	 */
 	public function boot() {
-		$this->package( 'jeylabs/vivid' );
 	}
 
 	/**
